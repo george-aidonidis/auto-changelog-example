@@ -1,3 +1,11 @@
+## [Version 0.0.2](https://github.com/:george-aidonidis/auto-changelog-example/releases/tag/v0.0.2) (2019-3-8)
+
+### Bug fixes
+
+- Chore: Replace commitizen with semantic-git-commit: [`e1e8316`](https://github.com/:george-aidonidis/auto-changelog-example/commit/e1e8316)
+
+[...full changes](https://github.com/:george-aidonidis/auto-changelog-example/compare/v0.0.1...v0.0.2)
+
 ## [Version 0.0.1](https://github.com/:george-aidonidis/auto-changelog-example/releases/tag/v0.0.1) (2019-3-8)
 
 ### New features
