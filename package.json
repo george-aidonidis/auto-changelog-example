@@ -20,7 +20,8 @@
     "test": "jest",
     "codecov": "codecov",
     "cm": "git-cz",
-    "semantic-release": "semantic-release"
+    "semantic-release": "semantic-release",
+    "cg": "yarn changelog"
   },
   "files": [
     "index.js"
