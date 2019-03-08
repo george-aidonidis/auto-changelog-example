@@ -15,30 +15,9 @@ $ yarn add auto-changelog-example
 ```js
 const cmExample = require('auto-changelog-example');
 
-cmExample('monkeys');
-//=> 'monkeys & raccoons'
+cmExample(');
+//=> 'raccoons'
 ```
-
-## API
-
-### cmExample(input, [options])
-
-#### input
-
-Type: `string`
-
-Lorem ipsum.
-
-#### options
-
-Type: `Object`
-
-##### foo
-
-Type: `boolean`<br>
-Default: `false`
-
-Lorem ipsum.
 
 ## Contributing
 
