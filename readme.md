@@ -15,8 +15,8 @@ $ yarn add auto-changelog-example
 ```js
 const cmExample = require('auto-changelog-example');
 
-cmExample();
-//=> 'raccoons'
+cmExample('cats');
+//=> 'raccoons and cats'
 ```
 
 ## Contributing
