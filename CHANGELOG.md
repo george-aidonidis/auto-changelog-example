@@ -1,3 +1,11 @@
+## [Version 0.0.4](https://github.com/:george-aidonidis/auto-changelog-example/releases/tag/v0.0.4) (2019-3-12)
+
+### Bug fixes
+
+- Docs: Update readme: [`d51457d`](https://github.com/:george-aidonidis/auto-changelog-example/commit/d51457d)
+
+[...full changes](https://github.com/:george-aidonidis/auto-changelog-example/compare/v0.0.3...v0.0.4)
+
 ## [Version 0.0.3](https://github.com/:george-aidonidis/auto-changelog-example/releases/tag/v0.0.3) (2019-3-12)
 
 ### New features
