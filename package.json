@@ -1,6 +1,6 @@
 {
   "name": "auto-changelog-example",
-  "version": "0.0.4",
+  "version": "0.0.0-development",
   "description": "My luminous module",
   "license": "MIT",
   "repository": {
@@ -21,7 +21,21 @@
     "codecov": "codecov",
     "cm": "semantic-git-commit",
     "semantic-release": "semantic-release",
-    "cg": "yarn changelog"
+    "cg": "yarn changelog",
+    "prlog": "yarn pr-log"
+  },
+  "pr-log": {
+    "dateFormat": "DD.MM.YYYY",
+    "validLabels": [
+      [
+        "feature",
+        "Feat"
+      ],
+      [
+        "bug",
+        "Fix"
+      ]
+    ]
   },
   "files": [
     "index.js"
@@ -35,6 +49,7 @@
     "husky": "^1.3.1",
     "jest": "^24",
     "lint-staged": "^8.1.4",
+    "pr-log": "^3.1.0",
     "semantic-git-commit-cli": "^3.1.1",
     "semantic-release": "^15.13.3",
     "xo": "^0.24.0"
