@@ -1,1 +1,1 @@
-module.exports = () => 'raccoons';
+module.exports = (input = '') => `raccoons and ${input}`;
