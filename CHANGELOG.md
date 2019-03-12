@@ -1,3 +1,16 @@
+## [Version 0.0.3](https://github.com/:george-aidonidis/auto-changelog-example/releases/tag/v0.0.3) (2019-3-12)
+
+### New features
+
+- Feat: Append input: [`e997428`](https://github.com/:george-aidonidis/auto-changelog-example/commit/e997428)
+
+### Bug fixes
+
+- Docs: Fix readme: [`8736209`](https://github.com/:george-aidonidis/auto-changelog-example/commit/8736209)
+- Fix: Convert to https: [`90bc016`](https://github.com/:george-aidonidis/auto-changelog-example/commit/90bc016)
+
+[...full changes](https://github.com/:george-aidonidis/auto-changelog-example/compare/v0.0.2...v0.0.3)
+
 ## [Version 0.0.2](https://github.com/:george-aidonidis/auto-changelog-example/releases/tag/v0.0.2) (2019-3-8)
 
 ### Bug fixes
